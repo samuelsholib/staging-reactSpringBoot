@@ -1,1 +1,2 @@
-#java-SpringBoot for back-end
+- java-SpringBoot for back-end
+- React for front-end
